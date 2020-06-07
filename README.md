@@ -1,3 +1,26 @@
+# Plataforma utilizada
+- Windows 10 
+- Xampp
+
+# Testes
+Considerando o tempo disponível preferi não implementar rotinas de testes.
+
+Todos os testes foram feitos manualmente.
+
+# Documentações e Consultas
+Apenas as documentações oficiais para sintaxes.
+
+# Tempo decorrido com desenvolvimento:
+Em torno de 5 horas.
+
+Commit inicial 07/06/2020 15:00h
+
+Commit final 07/06/2020 19:50h
+
+*horários aproximados
+
+
+-----------------------------------------
 # rd-frontend-challenge
 
 Este é um desafio técnico para Desenvolvedor Frontend. Algumas partes do código desta aplicação foram propositalmente subtraídas. Nestes pontos, existirá uma indicação informando que algo havia ali. Sua tarefa é identificar o que está faltando e completar o código para que a aplicação volte a funcionar.
